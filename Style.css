@@ -51,7 +51,8 @@ html, body {
 
 
   .page-content a {
-   
+   color: #6f717d;
+   border-bottom: 0;
   }
 
 h1 {
